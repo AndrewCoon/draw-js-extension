@@ -69,6 +69,7 @@ if (!background) {
   /*  */
   background.receive("close", config.interface.hide);
   background.receive("print", config.interface.print);
+  background.receive("show", config.interface.show);
 }
 
 config.interface.toggle();
