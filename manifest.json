@@ -6,7 +6,7 @@
   "homepage_url": "https://mybrowseraddon.com/draw-on-page.html",
   "description": "Easily draw on any website with simple drawing tools, then print the result.",
   "commands": {
-    "_execute_action": {}
+    "_execute_action": {},
     
     "exit": {
       "suggested_key": {
