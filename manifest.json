@@ -16,7 +16,7 @@
     }
   },
   "background": {
-    "service_worker": "background.js"
+    "script": "background.js"
   },
   "web_accessible_resources": [{
     "matches": ["<all_urls>"],
