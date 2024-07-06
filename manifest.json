@@ -12,6 +12,11 @@
         "default": "F2"
       },
       "description": "Exit the extension"
+    },
+    "open": {
+        "suggested_key": {
+            "default": "Ctrl+Alt+A"
+        }
     }
   },
     "background":{
