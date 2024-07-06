@@ -10,7 +10,7 @@
     
     "exit": {
       "suggested_key": {
-        "default": "Esc",
+        "default": "Esc"
       },
       "description": "Exit the extension"
     }
